@@ -1,0 +1,2 @@
+# .fvwm
+my`.fvwm` configure
