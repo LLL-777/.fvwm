@@ -23,6 +23,7 @@
 SetEnv FVWM_HOME $[HOME]/.fvwm
 ImagePath +:/usr/share/icons/hicolor/16x16/apps:/usr/share/pixmaps:$[FVWM_HOME]/icons
 
+
 # InfoStoreAdd can be used to store variable data internal to fvwm.
 # The variable can then be used in the configuration as $[infostore.name].
 #
