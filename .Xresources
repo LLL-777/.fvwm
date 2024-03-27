@@ -1,0 +1,17 @@
+!-------------------------------------------------------------------------------
+! Xft settings
+!-------------------------------------------------------------------------------
+
+Xft.dpi:                    96
+Xft.antialias:              true
+Xft.rgba:                   rgb
+Xft.hinting:                true
+Xft.hintstyle:              hintslight
+xft.autohint:		    false
+xft.lcdfilter:		    lcddefault
+Xcursor*theme:		    DMZ-White
+!Xcursor*size:		    16
+Xft.toolBar:	off
+
+#include ".Xresource.d/rxvt-unicode"
+#include ".Xresource.d/xterm"
